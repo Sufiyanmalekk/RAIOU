@@ -148,7 +148,7 @@
     .box1 {
         width: 150px;
         height: 50px;
-        margin-right: 70px;
+        margin-right: 80px;
     }
 
     .box1 h1 {
@@ -158,7 +158,7 @@
     .box2 {
         width: 150px;
         height: 50px;
-        margin-right: 70px;
+        margin-right: 80px;
     }
 
     .box2 h1 {
@@ -493,7 +493,7 @@
     }
 
     .fourth-container-data-box-4 ul li a {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     /* <!-- ***** FIFTH-CONTAINER ***** -->/ */
@@ -711,13 +711,13 @@
 
     .sixth-container-data-1 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
     }
 
     .sixth-container-data-2 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
         border-top-right-radius: 15px;
     }
@@ -728,12 +728,12 @@
     }
 
     .sixth-container-data-2 h2 {
-        font-size: 11px;
+        font-size: 10px;
     }
 
     .sixth-container-data-3 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
         display: flex;
         justify-content: center;
@@ -743,7 +743,7 @@
 
     .sixth-container-data-4 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
         display: flex;
         justify-content: center;
@@ -757,12 +757,12 @@
     }
 
     .sixth-container-data-4 h2 {
-        font-size: 11px;
+        font-size: 10px;
     }
 
     .sixth-container-data-5 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
         display: flex;
         justify-content: center;
@@ -776,7 +776,7 @@
 
     .sixth-container-data-6 {
         /* border: 5px solid green; */
-        width: 190px;
+        width: 170px;
         height: 140px;
     }
 
