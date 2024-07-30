@@ -607,7 +607,9 @@
     .fifth-container-data-2 h3 {
         font-size: 17px;
     }
-
+    .fifth-container-data-3{
+        width: 520px!important;
+    }
 
     .fifth-container-data-text-3 {
         /* border: 5px solid rgb(60, 131, 73); */
@@ -637,7 +639,7 @@
 
     .fifth-container-data-4 {
         /* border: 5px solid rgb(219, 101, 101); */
-        width: 85%;
+        width: 95%;
         height: auto;
         display: flex;
         align-items: center;
@@ -649,7 +651,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 130px;
+        gap: 120px;
     }
 
     .fifth-container-data-text-4 h1 {
